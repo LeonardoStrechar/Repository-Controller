@@ -1,7 +1,7 @@
+import { Title } from './styles.js'
+
 export default function Main() {
     return (
-        <div>
-            <h1>main</h1>
-        </div>
+        <Title>Main</Title>
     )
 }
